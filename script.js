@@ -147,7 +147,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     gsap.to(elementsToAnimate, {
       y: -60,
-      duration: 1,
+      duration: 0.66,
       ease: "power4.in",
       stagger: 0.05,
     });
@@ -197,7 +197,7 @@ document.addEventListener("DOMContentLoaded", function () {
           {
             scale: 1,
             bottom: "1em",
-            duration: 1,
+            duration: 0.7,
             ease: "power4.out",
           }
         );

@@ -166,7 +166,6 @@ nav {
 .project-img img {
   will-change: transform;
 }
-
 .gallery-wrapper {
   z-index: 2;
   overflow: auto;
